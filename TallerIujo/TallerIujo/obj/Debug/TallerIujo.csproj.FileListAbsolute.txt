@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\TallerSeccionA\TallerIujo\TallerIujo\bin\Debug\TallerIujo.exe
+C:\Users\usuario\Documents\TallerSeccionA\TallerIujo\TallerIujo\bin\Debug\TallerIujo.pdb
+C:\Users\usuario\Documents\TallerSeccionA\TallerIujo\TallerIujo\obj\Debug\TallerIujo.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\TallerSeccionA\TallerIujo\TallerIujo\obj\Debug\TallerIujo.exe
+C:\Users\usuario\Documents\TallerSeccionA\TallerIujo\TallerIujo\obj\Debug\TallerIujo.pdb
